@@ -1,0 +1,20 @@
+.calac{
+    width: 330px;
+    height: 550px;
+    background-color: aquamarine;
+    margin-left: 450px;
+    margin-top: 90px;
+}
+.screen{
+    margin-left: 60px;
+    height: 55px;
+    width: 60%;
+}
+
+
+.btn{
+    width: 35px;
+    height: 35px;
+    margin-top: 50px;
+    margin-left: 25px ;
+}
